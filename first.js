@@ -10,3 +10,4 @@ const student = {
     isPass: true,
 }
 console.log(student)
+console.log(stu.age)
